@@ -1,0 +1,5 @@
+numpy
+glfw
+moderngl
+scipy
+imgui[glfw]
