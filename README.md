@@ -1,7 +1,7 @@
 Python 3D Viewer
 ================
 
-A simple starter Python code for experimenting 3D graphics.
+A simple starter Python code for experimenting 3D graphics using [glfw](https://github.com/FlorianRhiem/pyGLFW), [moderngl](https://moderngl.readthedocs.io) and [imgui](https://pyimgui.readthedocs.io).
 
 ![Screenshot](doc/screenshot.png)
 
